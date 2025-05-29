@@ -16,7 +16,7 @@ Implementation of the classic Breakout arcade game built with React. This game f
 ![Landing Page](https://github.com/user-attachments/assets/d30ebc2a-c9f3-488a-b548-5fc48ed4f699)
 
 ### Features:
-![Solver](ttps://github.com/user-attachments/assets/90d4e90c-ded0-49f6-a8ff-02b4c134606e)
+![Solver](https://github.com/user-attachments/assets/90d4e90c-ded0-49f6-a8ff-02b4c134606e)
 
 ## Installation & Setup
 
